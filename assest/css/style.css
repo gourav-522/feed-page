@@ -28,6 +28,8 @@
     line-height: 24px;
     text-align: left;
     color: #000000;
+    padding-bottom: 24px;
+    padding-top: 30px;
 }
 
 .nav-btn {
@@ -47,6 +49,8 @@
     color: #FFFFFF;
     background: #2C49FE;
     border: none;
+    padding-bottom: auto;
+    padding-top: auto;
 }
 
 .nav-btn:hover {
@@ -437,12 +441,17 @@
 
 }
 
+.pl34 {
+    padding-left: 34px;
+}
+
 .modal-text {
     font-family: "Poppins", sans-serif;
     font-size: 20px;
     font-weight: 400;
     line-height: 30px;
     text-align: left;
+
 
 }
 
@@ -619,7 +628,8 @@
 
     color: white;
     margin-top: 70px;
-    margin-bottom: 20px;
+    /* margin-bottom: 20px; */
+    padding-bottom: 0px;
 }
 
 .pr-105 {
@@ -724,8 +734,9 @@
 .mt10 {
     margin-top: 20px;
 }
-.show{
-list-style: none;
+
+.show {
+    list-style: none;
 }
 
 
